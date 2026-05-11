@@ -1,4 +1,4 @@
-# 🧪 QA Manual Testing Portfolio
+# QA Manual Testing Portfolio
 
 Hello! I'm a Junior QA Tester with ISTQB CTFL certification and experience in:
 - Manual Testing
@@ -9,7 +9,7 @@ Hello! I'm a Junior QA Tester with ISTQB CTFL certification and experience in:
 
 This repository showcases my QA testing documentation and examples.
 
-## 📁 Repository Structure
+##  Repository Structure
 
 - Test Plan
 - Test Cases
